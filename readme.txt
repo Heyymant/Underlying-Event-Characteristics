@@ -1,3 +1,5 @@
+This project contains data analysis on 2 million events generated using PYTHIA 8 Monte Carlo Event Generator, for the measurement of underlying event characteristics. This was a course project for the course PH219 at IIT Bombay.
+
 The data file in each of the macros is named as "datafile.root"
 
 The files starting with N correspond to macros dealing with Number of charged particles. 
